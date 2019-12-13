@@ -1,0 +1,43 @@
+.h5-img {
+  vertical-align: top;
+}
+.cover-warpper {
+  background: #CD96CD;
+  min-height: 100vh;
+  text-align: center;
+}
+.cover-warpper_title {
+  font-size: 2rem;
+  color: #FFFFFF;
+  padding-top: 1rem;
+  margin: 0;
+}
+.cover-warpper_banner {
+  position: relative;
+  padding: 2rem 0;
+}
+.cover-warpper_banner_bg {
+  display: block;
+  width: 21rem;
+  height: 14rem;
+  margin: 0 auto;
+  border-radius: 1rem;
+}
+.cover-warpper_footer {
+  position: fixed;
+  bottom: 3rem;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+}
+.cover-warpper_footer_btn {
+  width: 100%;
+  text-align: center;
+  padding: 0.55555556rem 0;
+  font-size: 1.25rem;
+  background: #c067a5;
+  color: #FFFFFF;
+  border-radius: 1rem;
+}
+
+

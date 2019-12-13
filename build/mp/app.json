@@ -1,0 +1,14 @@
+{
+	"pages": [
+		"pages/index/index",
+		"pages/log/index",
+		"pages/memory/index"
+	],
+	"window": {
+		"navigationBarTitleText": "张新兴和杨诗萌的婚礼邀请",
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#CD96CD"
+	},
+	"subpackages": [],
+	"preloadRule": {}
+}
